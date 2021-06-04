@@ -5,15 +5,11 @@
 
 
 
-![锤子魔改图标](https://cdn.fangyuanxiaozhan.com/assets/162277152885822npez4Z.png)
+![锤子魔改图标](./README/162277152885822npez4Z.png)
 
 | 打脸 | 我靠还有没有王法 | 颠覆业界收购苹果改变世界 | 苟利国家生死以嘛 |
 | :-: | :-: | :-: | :-: |
-| ![罗永浩00001-打脸](https://cdn.fangyuanxiaozhan.com/assets/16227881018551DzpypFB.gif)  | ![罗永浩00002-我靠还有没有王法](https://cdn.fangyuanxiaozhan.com/assets/1622788102220tanTEKFH.gif) |  ![罗永浩00003-颠覆业界收购苹果改变世界](https://cdn.fangyuanxiaozhan.com/assets/1622788102115ddmJsFwQ.gif) | ![罗永浩00004-苟利国家生死以嘛](https://cdn.fangyuanxiaozhan.com/assets/1622788102218izf3B4sw.gif) |
-
-
-
-
+| ![罗永浩00001-打脸](./README/16227881018551DzpypFB.gif)  | ![罗永浩00002-我靠还有没有王法](./README/1622788102220tanTEKFH.gif) |  ![罗永浩00003-颠覆业界收购苹果改变世界](./README/1622788102115ddmJsFwQ.gif) | ![罗永浩00004-苟利国家生死以嘛](./README/1622788102218izf3B4sw.gif) |
 
 
 
@@ -29,7 +25,7 @@
 
 - 点击**登录**(微信扫码登录即可)
 
-![登录](https://cdn.fangyuanxiaozhan.com/assets/1622771498118Ke8pcWQ7.png)
+![登录](./README/1622771498118Ke8pcWQ7.png)
 
 - 点击**写文章**
 
